@@ -1,4 +1,4 @@
-package crypto;
+package gui;
 
 import java.awt.EventQueue;
 import java.io.BufferedReader;
